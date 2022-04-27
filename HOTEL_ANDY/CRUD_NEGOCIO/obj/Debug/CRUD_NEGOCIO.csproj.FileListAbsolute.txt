@@ -1,0 +1,14 @@
+D:\hotel\HOTEL_ANDY\CRUD_NEGOCIO\bin\Debug\CRUD_NEGOCIO.dll
+D:\hotel\HOTEL_ANDY\CRUD_NEGOCIO\bin\Debug\CRUD_NEGOCIO.pdb
+D:\hotel\HOTEL_ANDY\CRUD_NEGOCIO\bin\Debug\CRUD_DATOS.dll
+D:\hotel\HOTEL_ANDY\CRUD_NEGOCIO\bin\Debug\CRUD_DATOS.pdb
+D:\hotel\HOTEL_ANDY\CRUD_NEGOCIO\obj\Debug\CRUD_NEGOCIO.csprojResolveAssemblyReference.cache
+D:\hotel\HOTEL_ANDY\CRUD_NEGOCIO\obj\Debug\CRUD_NEGOCIO.dll
+D:\hotel\HOTEL_ANDY\CRUD_NEGOCIO\obj\Debug\CRUD_NEGOCIO.pdb
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_NEGOCIO\bin\Debug\CRUD_NEGOCIO.dll
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_NEGOCIO\bin\Debug\CRUD_NEGOCIO.pdb
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_NEGOCIO\bin\Debug\CRUD_DATOS.dll
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_NEGOCIO\bin\Debug\CRUD_DATOS.pdb
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_NEGOCIO\obj\Debug\CRUD_NEGOCIO.csprojResolveAssemblyReference.cache
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_NEGOCIO\obj\Debug\CRUD_NEGOCIO.dll
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_NEGOCIO\obj\Debug\CRUD_NEGOCIO.pdb

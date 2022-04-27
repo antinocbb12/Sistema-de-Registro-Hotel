@@ -1,0 +1,10 @@
+D:\hotel\HOTEL_ANDY\CRUD_DATOS\bin\Debug\CRUD_DATOS.dll
+D:\hotel\HOTEL_ANDY\CRUD_DATOS\bin\Debug\CRUD_DATOS.pdb
+D:\hotel\HOTEL_ANDY\CRUD_DATOS\obj\Debug\CRUD_DATOS.csprojResolveAssemblyReference.cache
+D:\hotel\HOTEL_ANDY\CRUD_DATOS\obj\Debug\CRUD_DATOS.dll
+D:\hotel\HOTEL_ANDY\CRUD_DATOS\obj\Debug\CRUD_DATOS.pdb
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_DATOS\bin\Debug\CRUD_DATOS.dll
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_DATOS\bin\Debug\CRUD_DATOS.pdb
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_DATOS\obj\Debug\CRUD_DATOS.csprojResolveAssemblyReference.cache
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_DATOS\obj\Debug\CRUD_DATOS.dll
+E:\semestres\2018 II\hotel\HOTEL_ANDY\CRUD_DATOS\obj\Debug\CRUD_DATOS.pdb
